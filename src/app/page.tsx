@@ -338,7 +338,7 @@ function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 sm:flex-row">
         <div className="flex items-center gap-2 text-white/30">
           <span className="text-accent">✦</span>
-          <span className="text-sm">Arcanum Lux © 2025</span>
+          <span className="text-sm">Arcanum Lux © 2026</span>
         </div>
         <div className="flex gap-6">
           <a
