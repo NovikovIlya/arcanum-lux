@@ -234,7 +234,7 @@ function Spreads() {
           ))}
         </div>
         <p className="mt-8 text-center text-sm text-white/30">
-          Первые два расклада доступны бесплатно всегда.
+          Первые два расклада доступны бесплатно всегда!
         </p>
       </div>
     </section>
